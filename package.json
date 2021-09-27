@@ -1,6 +1,6 @@
 {
   "name": "random-names-avengers-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "random de nombres de los vengadores",
   "main": "src/index.js",
   "scripts": {
