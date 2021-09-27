@@ -14,7 +14,11 @@
   "author": "",
   "license": "MIT",
   "bin": {
-    "random-name-avengers": "./bin/global.js"
+    "random-name-avengers": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/gabrielambriz75/npm-name-avengers.git)"
+  }
 }
